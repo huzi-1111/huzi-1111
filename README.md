@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @huzi-1111
 - 👀 I’m interested in Application Security, Computer Forensics, Malware Analysis, Java, Python
 - 🌱 I’m currently learning Cyber Security in Nanyang Technological University 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by huzixuan0652@163.com
 
 <!---
